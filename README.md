@@ -4,9 +4,9 @@ Este wiki es la principal fuente de documentación para el entrenamiento de los 
 
 ##  Navegación rápida 
 
-### [Acerca de las plataformas](https://github.com/Datawheel/training-/wiki/Acerca-de-las-plataformas)
+### [Plataformas Datawheel](https://github.com/Datawheel/training-/wiki/Acerca-de-las-plataformas)
 
-Presentamos las plataformas de Datawheel: porqué las construimos y para qué sirven 
+Porqué las construimos y para qué sirven 
 
 ### [Documentación ](https://github.com/Datawheel/training-/wiki/Documentación) 
 Manual ETL, Manual Tesseract UI, y [Manual CMS](https://github.com/Datawheel/training-/wiki/Manual-CMS).
