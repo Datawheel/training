@@ -10,4 +10,4 @@ Porqué las construimos y para qué sirven
 ### [Documentación ](https://github.com/Datawheel/training-/wiki/Documentación) 
 Manual ETL, Manual Tesseract UI, y [Manual CMS](https://github.com/Datawheel/training-/wiki/Manual-CMS).
 
-Para mayores detalles ve [Plataformas Datawheel](https://www.datawheel.us).
+Para mayor información sobre la empresa, te invitamos a conocer el sitio oficial [Plataformas Datawheel](https://www.datawheel.us).
