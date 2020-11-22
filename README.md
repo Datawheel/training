@@ -1,5 +1,5 @@
 ## Documentación y entrenamiento de las herramientas desarrolladas por Datawheel
-Datawheel en el paso del tiempo ha ido desarrollando sus propias tecnologias, en este wiki te presentaremos un manual de aprendizaje para 3 de ellas, las cuales son Tesseract UI, Content Management System (CMS) y Bamboo. El objetivo de esta documentación es que sea util para el entrenamiento de desarrolladores internos o externos de la empresa. Si esta es la primera ocasión que escuchas sobre las plataformas desarrolladas por Datawheel, te recomendamos comenzar explorando los siguientes sitios: [DataUSA] (https://datausa.io), [OEC](https://oec.world), [DataMexico](https://datamexico.org), donde podras ver los diferentes perfiles y secciones de las plataformas. 
+Datawheel en el paso del tiempo ha ido desarrollando sus propias tecnologias, en este wiki te presentaremos un manual de aprendizaje para 3 de ellas, las cuales son Tesseract UI, Content Management System (CMS) y Bamboo. El objetivo de esta documentación es que sea util para el entrenamiento de desarrolladores internos o externos de la empresa. Si esta es la primera ocasión que escuchas sobre las plataformas desarrolladas por Datawheel, te recomendamos comenzar explorando los siguientes sitios: [DataUSA](https://datausa.io), [OEC](https://oec.world), [DataMexico](https://datamexico.org), donde podras ver los diferentes perfiles y secciones de las plataformas. 
 
 ##  Navegación rápida 
 
@@ -10,4 +10,4 @@ Descripción y proceso de construcción de las plataformas
 ### [Documentación ](https://github.com/Datawheel/training-/wiki/Documentación) 
 Manual ETL, Manual Tesseract UI, y [Manual CMS](https://github.com/Datawheel/training-/wiki/Manual-CMS).
 
-Para mayor información sobre la empresa, te invitamos a conocer el sitio oficial [Plataformas Datawheel](https://www.datawheel.us).
+Para mayor información sobre la empresa, te invitamos a conocer el sitio oficial [Datawheel](https://www.datawheel.us).
