@@ -5,7 +5,7 @@ Datawheel en el paso del tiempo ha ido desarrollando sus propias tecnologias, en
 
 ### [Plataformas Datawheel](https://github.com/Datawheel/training-/wiki/Acerca-de-las-plataformas)
 
-Porqué las construimos y para qué sirven 
+Descripción y proceso de construcción de las plataformas 
 
 ### [Documentación ](https://github.com/Datawheel/training-/wiki/Documentación) 
 Manual ETL, Manual Tesseract UI, y [Manual CMS](https://github.com/Datawheel/training-/wiki/Manual-CMS).
