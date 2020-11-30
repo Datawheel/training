@@ -4,8 +4,7 @@ Bienvenido a Training-Wiki, espacio para documentación y entrenamiento de las h
 Tidying/wWrangling con Python, Bamboo-lib y Extracción y Transformación de Datos (ETL) para Tesseract 
 
 ### [Tesseract UI](https://github.com/Datawheel/training/blob/main/Maniual%20Tesseract%20UI.pdf)
-
-¿Cómo accedemos a las distintas bases de datos existentes en un proyecto. Su interfaz facilita el acceso y el filtrado de información en base a elementos como drilldowns y cortes.
+¿Cómo accedemos a las distintas bases de datos existentes en un proyecto? 
 
 ### [CMS](https://github.com/Datawheel/training/blob/main/Manual%20CMS.pdf)
 ¿Cómo facilitar la distribución y visualización de datos en web?
