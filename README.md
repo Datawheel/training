@@ -1,4 +1,4 @@
-Bienvenido a Training-Wiki, espacio para documentación y entrenamiento de las herramientas desarrolladas por Datawheel. Las tres principales tecnologías que conocerán en esta sección son fundamentales para el desarrollo de las plataformas de DW. En este wiki se presentan tres módulos de introducción a ETL, Tesseract UI y CMS.
+Bienvenido a Training-Wiki, espacio para documentación y entrenamiento de las herramientas desarrolladas por Datawheel. Las tres principales tecnología y procesos que conocerán en esta sección son fundamentales para el desarrollo de las plataformas de DW. En este wiki se presentan tres módulos de introducción a ETL, Tesseract UI y CMS.
 
 ### ETL
 Tidying/wWrangling con Python, Bamboo-lib y Extracción y Transformación de Datos (ETL) para Tesseract 
